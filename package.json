@@ -14,7 +14,7 @@
     "alibabacloud-iot-device-sdk": "^1.2.8",
     "koa": "^2.8.1",
     "koa-bodyparser": "^4.2.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^7.5.2",
